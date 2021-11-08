@@ -1,5 +1,5 @@
 
-# Modifies the tables of rollbar
+# Modifies the HTML table of rollbar
 
 # Installing
 
