@@ -10,4 +10,5 @@
 
 # Known Issues
 
-Throws errors due to running on every page, but `host_permissions` in the manifest should be preventing this
+- Throws errors due to running on every page, but `host_permissions` in the manifest should be preventing this
+- Cannot resize horizontally -- has to do with table width but it has not been a big enough issue to work with yet
